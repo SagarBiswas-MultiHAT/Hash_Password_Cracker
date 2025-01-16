@@ -3,6 +3,8 @@
 
 # Hash Password Cracker
 
+## MD5 Hash Generator: https://www.md5hashgenerator.com/
+
 Easily crack MD5-hashed passwords using a dictionary attack. This tool demonstrates the importance of strong password security and helps illustrate the vulnerabilities of weak hashing algorithms.
 
 Welcome to the **Hash Password Cracker**, a Python tool designed to crack MD5-hashed passwords using a dictionary attack. This script is intended for educational purposes, showcasing how easily weak passwords can be cracked when proper security measures are not followed.
